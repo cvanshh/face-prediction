@@ -1,8 +1,8 @@
 streamlit
-deepface
 numpy
 pillow
 opencv-python-headless
-tensorflow
+tensorflow-cpu
+deepface==0.0.79
 keras
 mtcnn
