@@ -2,7 +2,6 @@ streamlit
 numpy
 pillow
 opencv-python-headless
-tensorflow-cpu
-deepface==0.0.79
-keras
-mtcnn
+torch
+torchvision
+facenet-pytorch
