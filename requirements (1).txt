@@ -1,7 +1,7 @@
-streamlit
+deepface
+mtcnn
+opencv-python
+tensorflow
+keras
 numpy
 pillow
-opencv-python-headless
-torch
-torchvision
-facenet-pytorch
